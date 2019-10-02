@@ -1,8 +1,10 @@
 ---
 title: "About me"
 ---
+Hello, my name's Aurélie Pinchart. I'm doing biology studies and I'm in the second year.
+
+My English teacher is Mrs Van Lancker (I'm in the group 1).
+I'm making this blog to talk about my English activity in my daily life and to edit my work for my portfolio.
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
