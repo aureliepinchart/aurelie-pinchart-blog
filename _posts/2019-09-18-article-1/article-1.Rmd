@@ -4,8 +4,7 @@ author:
   - name: Aurélie Pinchart
 date: 09-18-2019
 categories:
-  - 
-  - 
+  - track
 preview: 
 output:
   distill::distill_article:
