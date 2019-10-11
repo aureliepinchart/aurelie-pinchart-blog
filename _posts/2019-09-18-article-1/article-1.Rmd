@@ -1,8 +1,8 @@
 ---
-title: "Article 1 : "
+title: "Article 1 : Pathway found for treatment-resistant lung cancer"
 author:
   - name: Aurélie Pinchart
-date: 09-18-2019
+date: 10-11-2019
 categories:
   - track
 preview: 
@@ -14,30 +14,86 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Article
 
+A big way **chemotherapy** works is by **prompting** cancer cells to commit suicide, and scientists have found a pathway the most common lung cancer walks to avoid death.
+Scientists at the Medical College of Georgia and Georgia Cancer Center at Augusta University have found a first step appears to be lung cancer cells expressing high levels of the molecule TIMP-1, classically considered a tumor inhibitor but at high levels already associated with a poor **prognosis** for patients.
+TIMP-1 then turns up expression of the **immune system** modulator IL-6, which is already associated with resistance to cancer chemotherapy.
+Levels of both increase even further in the face of chemotherapy treatment, a **mainstay** for treatment of the common, non-small cell lung cancer they studied.
+Chemotherapy resistance is a big problem in this lung cancer type, particularly when the cancer **recurs** at which point it's also more aggressive, says Dr. Mumtaz Rojiani, cancer biologist.
+To see just how TIMP-1 contributes, Rojiani and her colleagues first explored whether TIMP-1 **enabled** cancer cells' **uncanny** ability to essentially **spit out** a chemotherapy drug. While they didn't see evidence of that phenomenon in their studies in human lung cancer cells, they did see an increased level of IL-6.
+IL-6 is a sugar-coated protein that can turn inflammation both up and down and actually has been shown to regulate TIMP-1 -- rather than vice versa -- in some cancers.
+But in lung cancer, at least, the scientists saw TIMP-1 take the lead in avoiding cell suicide, a natural process that should happen when cells become **dysfunctional**.
+"At least in lung cancer, we are showing that it is TIMP-1 that is controlling IL-6," says Mumtaz Rojiani, corresponding author of the study in the journal Cancers.
+"We have shown for the first time that if TIMP-1 goes up, IL-6 goes up and if TIMP-1 goes down, IL-6 decreases ... and we have shown it in multiple different ways," says Dr. Amyn Rojiani, **chair** of the MCG Department of Pathology and a study coauthor.
+Their work indicates levels of this destructive duo may be an even more valuable indicator of a patient's prognosis as well as an important new **target** for improving it.
+In their studies, they looked at both human non-small cell lung cancer cells and the same cells with TIMP-1 knocked out, then used two **frontline** chemotherapeutic agents, gemcitabine and cisplatin, and found IL-6 production went down and cell death went up in response to the drugs in the cells with TIMP-1 missing, says Mumtaz Rojiani.
+"We gave the two chemotherapy drugs and when we looked at the effect of those drugs we found that TIMP-1 was affecting **apoptosis** in cell lines and when we **knocked it down**, we found more apoptosis even in the presence of these drugs," says Mumtaz Rojiani. "So we know TIMP-1 is affecting apoptosis."
+When they added TIMP-1, they saw IL-6 go back up and cell survival increase, she says. In fact, when they gave more IL-6, cell death also was reduced, however just adding TIMP-1 also increased IL-6 and using **antibodies** to **neutralize** just TIMP-1 also reduced levels of IL-6.
+When they looked again at cancer cells that survived, they were even more treatment-resistant than the cells they came from and had higher levels of TIMP-1 and IL-6, Mumtaz Rojiani says.
+"You develop chemo-resistant clones that have higher levels than the original cancer cells," says Amyn Rojiani.
+To **ensure** the IL-6 was functional at this higher level, they looked **downstream** at the IL-6 signaling pathway, which includes STAT3, a regulator of gene activity. STAT3 is known **to be involved in** controlling cell growth and division, movement and apoptosis, all of which cancer uses. With high levels of IL-6, they watched STAT3 move into the cell nucleus, which means it was also activated.
+To see if this tumor-promoting **synergy** they identified in human lung cancer cell lines also occurred in patients, they turned to the Cancer Genome Atlas database, compiled by the National Cancer Institute, which includes samples and full genome sequencing from patients with a huge variety of **outcomes**, including chemotherapy resistance and death, says Dr. Wei Xiao, MCG postdoctoral fellow and the study's first author.
+They found that patients with non-small cell lung cancer who had both low TIMP-1 and IL-6 had higher survival rates and these two genes were commonly elevated together, Xiao says. Also, just IL-6 being elevated did not affect survival as much as just TIMP-1 being elevated. But they found patient survival was much worse when both were elevated rather than TIMP-1 alone. "The two-gene signature became very important," says Mumtaz Rojiani.
+Next steps include examining exactly how STAT3 is helping reduce apoptosis in this scenario. They already are wondering if there is some sort of **feedforward** mechanism that also means another thing active STAT3 does is activate even more TIMP-1.
+They also want to look at other cancers to see if the same chain of events also is set in motion, particularly in those where others have reported it's IL-6 driving TIMP-1. The order definitely matters because it helps define the function of downstream molecules, they say.
+Theirs is the first report of this relationship where TIMP-1 affects IL-6, which activates STAT3 in this most common lung cancer type.
+Multiple studies have reported that TIMP-1 is significantly elevated in lung cancer cells versus healthy lung cells. Theirs defines a role for elevated TIMP-1 in cancer cells developing resistance to chemotherapy, the scientists say.
+Cancer makes **heavy-handed** use of both MMPs, or matrix metalloproteinases, and their natural inhibitor TIMP-1. MMPs get **secreted** following injury to degrade **adjacent** **tissue** like collagen so **a myriad** of cells and factors can move in for repair. Particularly near the end of the repair process, levels of TIMP-1 increase to help keep the process from getting out of hand and healthy tissue from also getting destroyed, says Amyn Rojiani. Cancer takes advantage of MMPs to ensure it can grow at its main site and spread to others.
+If we don't have an injury -- or cancer -- we likely have very low levels of TIMP-1, the scientists say.
+Lung cancer is the leading cause of cancer death in both men and women, and the non-small cell type accounts for 80-85 percent of lung cancers, according to the American Cancer Society.
+The Georgia Cancer Coalition helped fund the research.
 
-![]
+Source : MEDICAL COLLEGE OF GEORGIA AT AUGUSTA UNIVERSITY. "PATHWAY FOUND FOR TREATMENT-RESISTANT LUNG CANCER." SCIENCEDAILY. SCIENCEDAILY, 23 SEPTEMBER 2019. <WWW.SCIENCEDAILY.COM/RELEASES/2019/09/190923170717.HTM>.
+
+Word count : 1055
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+I used https://www.wordreference.com/, https://www.lexico.com/ and https://dictionary.cambridge.org to fill in this table.
+
+| Vocabulary                      | Pronunciation     | Definition / synonym                                                               | French translation             |
+| ------------------------------- | ----------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
+| The chemotherapy                | [ˌkiːməʊˈθɛrəpi]  | drug treatment of cancer                                                           | chimiothérapie                 |
+| To prompt sb. / sth. to do sth. | [ˈprɒmpt]         | to encourage to do sht.                                                            | pousser qqn /qqch à faire qqch |
+| The prognosis                   | [prɒgˈnəʊsɪs]     | doctor's judgement of your disease                                                 | pronostic                      |
+| The immune system               | [ɪˈmjuːn ˈsɪstəm] | biological defense mechanisms                                                      | système immunitaire            |
+| The mainstay                    | [ˈmeɪnsteɪ]       | most important part of something, providingsupport for everything else             | un pilier, un élément de base  |
+| To recur                        | [rɪˈk3ːr]         | happen again                                                                       | se reproduire, réapparaître    |
+| To enable                       | [ɪnˈeɪbəl]        | make possible                                                                      | permettre                      |
+| Uncanny                         | [ˌʌnˈkæni]        | strange                                                                            | étrange, troublant             |
+| To spit out (chemotherapy)      | [ˈspɪt ˈaʊt]      | reject the treatment                                                               | rejeter, résister à            |
+| Dysfunctional                   |  [dɪsˈfʌŋkʃənəl]  | that does not work good                                                            | dysfonctionnel, anormal        |
+| The chair                       | [ˈtʃɛər]          | person in charge if of meeting, official group or organization                     | le président (d'un comité)     |
+| To target                       | [ˈtɑːrgɪt]        | aim an attack                                                                      | cibler                         |
+|  frontline                      | [ˌfrʌntˈlaɪn]     | at the battlefront                                                                 | en première ligne              |
+| The apoptosis                   | [ˌæpəpˈtoʊsəs]    | natural cell death                                                                 | apoptose                       |
+| To knock sth. down              |  [ˈnɒk ˈdaʊn]     | destroy                                                                            | détruire                       |
+| The antibody                    | [ˈæntibɒdi]       | blood protein that recognize pathogens                                             | anticoprs                      |
+| To neutralize                   | [ˈnjuːtrəlaɪz]    | produce an effect that removes the effect of something else                        | neutraliser                    |
+| To ensure sth.                  | [ɪnˈʃʊər]         | make sure that                                                                     | s'assurer que                  |
+| Downstream                      | [ˌdaʊnˈstriːm]    |  happening later in a process or series of events                                  | en aval                        |
+|  involved in                    | [ɪnˈvɒlvd ˈɪn]    | taking part in an activity                                                         | impliqué dans                  |
+| The synergy                     | [ˈsɪnərdʒi]       | combined effect                                                                    | synergie                       |
+| The outcome                     | [ˈaʊtkʌm]         | result                                                                             | résultat                       |
+| Feedforward                     | [ˈfiːdfɔːwəd]     | predicting                                                                         | prédictif                      |
+| Heavy-handed                    | [ˌhɛviˈhændɪd]    | severe                                                                             | brutal, sévère                 |
+| To secrete                      | [sɪˈkriːt]        | emit                                                                               | sécréter                       |
+| Adjacent                        | [əˈdʒeɪsənt]      | that is beside                                                                     | adjacent                       |
+| The tissue                      |  [ˈtɪsjuː]        | a group of connected cells  that are similar to each other, have the same purpose  | tissu                          |
+| A myriad of                     | [ˈmɪriəd]         | a large number                                                                     | une myriade de                 |
 
 ## Analysis table 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+|                             |                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                 | Medical College of Georgia at Augusta University (lead authors : Dr. Wei Xiao, Dr. Mumtaz Rojiani, Dr. Amyn Rojiani)                                                                                                                                                                                                                                                      |
+| Published in                | ScienceDaily, 23 September 2019                                                                                                                                                                                                                                                                                                                                           |
+| General topic               | The way cancerous cells avoid apoptosis (non-small cell lung cancer)                                                                                                                                                                                                                                                                                                      |
+| Procedure/what was examined | goal was to evidence link between TIMP-1 and resistance to chemotherapy + they used two drugs to destroy TIMP-1, then also destroy it by antibodies + added TIMP-1 to see the effect, then added IL-6  + STAT3 : regulator of gene activity (cell growth,division,  movement, apoptosis)                                                                                  |
+| Conclusions/discovery       | high rate of TIMP-1 increases rate of IL-6 which make cells avoid apoptosis + low rate of TIMP-1 => lower rate of IL-6 => more apoptosis of cancerous cells => higher survival rate for patients + adding IL-6 has no real effect on apoptosis + remaining cancerous cells are more resistant + high level of IL-6 => STAT3 moves to nucleus => helps to reduce apoptosis |
+| Remaining questions         | Does STAT3 activate more TIMP-1 production ?                                                                                                                                                                                                                                                                                                                              |
 
+## Source de l'article
 
-
-
-
-
+MEDICAL COLLEGE OF GEORGIA AT AUGUSTA UNIVERSITY. "PATHWAY FOUND FOR TREATMENT-RESISTANT LUNG CANCER." SCIENCEDAILY. SCIENCEDAILY, 23 SEPTEMBER 2019. <WWW.SCIENCEDAILY.COM/RELEASES/2019/09/190923170717.HTM>.
