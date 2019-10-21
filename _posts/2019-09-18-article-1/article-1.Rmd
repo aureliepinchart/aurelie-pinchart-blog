@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Source of the article: <WWW.SCIENCEDAILY.COM/RELEASES/2019/09/190923170717.HTM>.
 
+Article with highlighted words : https://github.com/aureliepinchart/aurelie-pinchart-blog/blob/master/pdf/article_1.pdf
+
 
 ## Vocabulary 
 
