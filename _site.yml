@@ -14,5 +14,6 @@ navbar:
 base_url: https://aureliepinchart.github.io/aurelie-pinchart-blog/
 collections:
     posts:
+      disqus: aurelie-pinchart-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
