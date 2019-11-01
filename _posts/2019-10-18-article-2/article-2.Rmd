@@ -5,7 +5,7 @@ author:
 date: 11-01-2019
 categories:
   - antioxidants
-  - oxidatice stress
+  - oxidative stress
 preview: article-2_image/antioxidants.jpg
 output:
   distill::distill_article:
