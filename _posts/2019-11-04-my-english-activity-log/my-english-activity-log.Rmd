@@ -1,0 +1,70 @@
+---
+title: "My English activity log"
+
+author:
+  - name: Aurélie Pinchart
+date: 11-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+24/09/2019 : I read some articles for my presentation.
+
+25/09/2019 :I read some articles for my presentation.
+
+27/09/2019 :I read some articles for my presentation and I searched for some Youtube channels about science (especially Biology). I found : iBiology, Biomentors Classes Online, Beverly Biology, Vincent Racaniello, Alex Lee, Sea&amp;me - Marine Biology stuff with Maria.
+
+29/09/2019 : I found other Youtube channels : Bleier Biology, Biology Bugbears, Bozeman science, Amoeba sisters, Free science lessons, Biomedical and Biological sciences.
+I read the first chapter of "The Hobbit".
+
+02/10/2019 : I read the wikipedia article about cockatiel for my Data Science homework.
+
+05/10/2019 : I read some articles for my presentation and I watched a video about diffusion (https://www.youtube.com/watch?v=jhszFBtBPoI).
+
+06/10/2019 : I read some articles for my presentation, I read the second chapter of "The Hobbit" and I watched a vide about cell cycle (https://www.youtube.com/watch?v=QVCjdNxJreE).
+
+09/10/2019 : I read an article for my presentation.
+
+10/10/2019 : I watched a video about the respiratory system (https://www.youtube.com/watch?v=2guHOnEt0e8).
+
+11/10/2019 : I worked on my first article for my portfolio.
+
+12/10/2019 : I read some articles for my presentation.
+
+13/10/2019 : I worked on my presentation and I read the third chapter of "The Hobbit".
+
+14/10/2019 : I read some articles for my presentation.
+
+15/10/2019 : I read some articles for my presentation and I watched a documentary about coral bleaching https://www.youtube.com/watch?v=5cr8S5tTiz4.
+
+16/10/2019 : I read some articles for my presentation.
+
+17/10/2019 : I watched a video about the types of natural selection https://www.youtube.com/watch?v=DBPGLythma0.
+
+19/10/2019 : I watched a video about marine biology https://www.youtube.com/watch?v=uWZXC3mjeZU. I also read the fouth chapter of "The Hobbit".
+
+20/10/2019 : I watched a video about resting potential but it was said the opposite of what we were taught in class (so I don't put the link).
+
+22/10/2019 : I watched a video about predation https://www.youtube.com/watch?v=6jXwEOit5vM.
+
+24/10/2019 : I watched a video about genetic drift https://www.youtube.com/watch?v=W0TM4LQmoZY and a video about natural selection https://www.youtube.com/watch?v=7VM9YxmULuo.
+
+26/10/2019 : I watched a video about the loss of biodiversity https://www.youtube.com/watch?v=vCkDxD0DV0Q and I read the fifth chapter of "T he Hobbit".
+
+27/10/2019 : I watched a video about the protein structure and folding https://www.youtube.com/watch?v=hok2hyED9go.
+
+29/10/2019 : I watched a video about mutations https://www.youtube.com/watch?v=vl6Vlf2thvI.
+
+01/11/2019 : I watched a video about microscope drawings https://www.youtube.com/watch?v=NLKZ95aHqE4.
+
+02/11/2019 : I watched a video about ethology https://www.youtube.com/watch?v=BvLihzeQzGk.
+
+03/11/2019 : I watched a video about stress management https://www.youtube.com/watch?v=2vhIGYKW4gY and I read the sixth chapter of "The Hobbit".
+
+
+
+
