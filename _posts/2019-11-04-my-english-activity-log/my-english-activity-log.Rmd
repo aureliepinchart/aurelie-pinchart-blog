@@ -4,6 +4,7 @@ title: "My English activity log"
 author:
   - name: Aurélie Pinchart
 date: 11-04-2019
+preview: english.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -12,6 +13,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 24/09/2019 : I read some articles for my presentation.
 
 25/09/2019 :I read some articles for my presentation.
