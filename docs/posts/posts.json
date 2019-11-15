@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-02-article-3/",
+    "title": "Article 3 : New blood test trialled on 12,000 Scots catches lung cancer early",
+    "description": {},
+    "author": [
+      {
+        "name": "Aurélie Pinchart",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-15",
+    "categories": [
+      "blood test"
+    ],
+    "preview": "posts/2019-11-02-article-3/lung_image.jpg",
+    "last_modified": "2019-11-15T20:15:26+01:00"
+  },
+  {
     "path": "posts/2019-11-04-my-english-activity-log/",
     "title": "My English activity log",
     "description": {},
