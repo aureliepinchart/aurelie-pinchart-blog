@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 11-04-2019
+date: 11-24-2019
 preview: english.jpg
 output:
   distill::distill_article:
@@ -82,7 +82,13 @@ I read the first chapter of "The Hobbit".
 
 17/11/2019 : I watched a video about autotrophs and heterotrophs https://www.youtube.com/watch?v=f8G7IulYxiA and I read the eighth of "The Hobbit".
 
+20/11/2019 : I watched a video about DNA and RNA https://www.youtube.com/watch?v=JQByjprj_mA.
 
+21/11/2019 : I watched a video about skin https://www.youtube.com/watch?v=b9Fim9kKVLs.
+
+23/11/2019 : I watched a video about reflex arc https://www.youtube.com/watch?v=SMcF01utk3Y.
+
+24/11/2019 : I watched a video about signal transduction pathways https://www.youtube.com/watch?v=236d5LDUFSs and I read the ninth chapter of "The Hobbit".
 
 
 
