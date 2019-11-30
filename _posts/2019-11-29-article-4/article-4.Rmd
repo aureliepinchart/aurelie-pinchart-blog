@@ -1,0 +1,68 @@
+---
+title: "Article 4 : Two therapeutic targets identified for deadly lung cancer"
+author:
+  - name: Aurélie Pinchart
+date: 11-29-2019
+categories:
+  - LKB1
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+
+Salk Institute. "Two therapeutic targets identified for deadly lung cancer: Scientists discover a pair of enzymes that drive non-small-cell lung cancer by promoting inflammation." ScienceDaily. ScienceDaily, 26 July 2019. <www.sciencedaily.com/releases/2019/07/190726153155.htm>.
+
+
+
+## Vocabulary
+
+I used https://www.lexico.com/, https://dictionary.cambridge.org/, https://www.wordreference.com/ to fill in this table.
+
+
+| Vocabulary                               | Pronunciation                               | Definition / synonym                                                        | French translation                          |
+| ---------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
+| majority                                 | [məˈdʒɒrɪti]                                | over 50%                                                                    | majorité                                    |
+| term                                     | [ˈt3ːrm]                                    | give a name                                                                 | appeler                                     |
+| carcinomas                               | [ˌkɑːsɪˈnəʊmə]                              | cancerous tumor                                                             | carcinome                                   |
+| mutated                                  | [mjuːˈteɪt]                                 | change (genes)                                                              | muter                                       |
+| hopefully                                | [ˈhəʊpfʊli]                                 | with hope                                                                   | avec espoir                                 |
+| function                                 | [ˈfʌŋkʃən]                                  | work properly                                                               | fonctionner                                 |
+| suppressor                               | [səˈprɛsər]                                 | sth. preventing sth. else to happen                                         | limitateur                                  |
+| relay                                    | [ˈriːleɪ]                                   | race between several teams in which each person performs a part of the race | course de relais                            |
+| baton                                    | [ˈbætɒn]                                    | the stick that you give to the next person in a relay                       | (bâton) témoin                              |
+| kinase                                   | /ˈkʌɪneɪz/                                  | enzyme that adds phosphate groups                                           | kinase                                      |
+| suppressive                              | [səˈpresɪv]                                 | stopping / reducing sth.                                                    | suppresseur                                 |
+| unclear                                  | [ʌnˈklɪər]                                  | unclear                                                                     | pas clair                                   |
+| disrupt                                  | [dɪsˈrʌpt]                                  | cause disorder                                                              | perturber, bouleverser                      |
+| whodunnit                                | [huːˈdʌnɪt]                                 | murder story                                                                | roman policier                              |
+| case                                     | [ˈkeɪs]                                     | question                                                                    | question                                    |
+| point                                    | [ˈpɔɪnt]                                    | indicate                                                                    | indiquer                                    |
+| backup                                   | [ˈbækʌp]                                    | the person who will play if the usual player is not available               | (joueur) de secours, de réserve             |
+| intrigued                                | [ɪnˈtriːg]                                  | interest                                                                    | intriguer                                   |
+| In a related  vein                       | [ˈɪn ə rɪˈleɪtɪd ˈveɪn]                     | regarding the same object                                                   | dans le même esprit                         |
+| switches                                 | [ˈswɪtʃ]                                    | change                                                                      | changement                                  |
+| attack the problem from different angles | [əˈtæk ˈðə ˈprɒbləm ˈfrɒm ˈdɪfrənt ˈæŋɡəls] | try several solutions                                                       | attaquer le problème sous différents angles |
+| underpin                                 | [ˌʌndərˈpɪn]                                | support                                                                     | étayer                                      |
+| rewarding                                | [rɪˈwɔːrdɪŋ]                                | satisfying                                                                  | gratifiant                                  |
+| astonishing                              | [əˈstɒnɪʃɪŋ]                                | amazing                                                                     | étonnant, stupéfiant                        |
+| commit (to)                              | [kəˈmɪt]                                    | be dedicated to                                                             | s'engager (à)                               |
+| pursue                                   | [pərˈsjuː]                                  | try to discover information                                                 | poursuivre                                  |
+| trigger                                  | [ˈtrɪgər]                                   | cause                                                                       | déclencher, provoquer                       |
+| fund                                     | [ˈfʌnd]                                     | provide money for                                                           | financer                                    |
+
+## Analysis
+
+|                               |                                                                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers                   | Professor Reuben Shaw, Salk Institute                                                                                                                                                                        |
+| General topic                 |                                                                                                                                                                                                              |
+| Published in                  | Science Daily, on 26 July 2019                                                                                                                                                                               |
+| Procedure / what was examined | inactive gene LKB1 => cancer development + enzymes involved in inflammation / 12 potential enzymes that could suppress effect of LKB1 -> CRISPR + genetic analysis to inactivate each enzyme (+combinations) |
+| Conclusion / discovery        | LKB1 <-> 2 enzymes (SIK1 and SIK3) that blocks tumor growth : SIK1 inactivated <-> increased tumor growth, SIK3 inactivated <-> tumor grows more aggressively => inflammation plays a role in lung cancer    |
+| Remaining questions           | How do these kinase-driven changes in inflammation cause lung tumor growth ?                                                                                                                                 |
