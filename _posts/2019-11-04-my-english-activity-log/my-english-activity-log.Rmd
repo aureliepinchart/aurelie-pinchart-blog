@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 11-24-2019
+date: 12-01-2019
 preview: english.jpg
 output:
   distill::distill_article:
@@ -90,7 +90,13 @@ I read the first chapter of "The Hobbit".
 
 24/11/2019 : I watched a video about signal transduction pathways https://www.youtube.com/watch?v=236d5LDUFSs and I read the ninth chapter of "The Hobbit".
 
+25/11/2019 : I watched a video about electrochemical gradient https://www.youtube.com/watch?v=Ba02v7eoVWQ.
 
+27/11/2019 : I watched a video about viruses https://www.youtube.com/watch?v=8FqlTslU22s.
+
+29/11/2019 : I watched a video about organic molecules https://www.youtube.com/watch?v=tcmGGGJx9zI.
+
+01/12/2019 : I read the tenth chapter of "The Hobbit".
 
 
 
