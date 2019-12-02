@@ -1,7 +1,11 @@
 name: "blog-template"
 title: "Aurélie's Blog"
 output_dir: "docs"
+favicon: "images/poumon.jpeg"
 navbar:
+  left:
+   logo: 
+    image: "images/poumon.jpeg"
   right:
     - text: "Home"
       href: index.html

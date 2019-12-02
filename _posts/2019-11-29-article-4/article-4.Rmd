@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Salk Institute. "Two therapeutic targets identified for deadly lung cancer: Scientists discover a pair of enzymes that drive non-small-cell lung cancer by promoting inflammation." ScienceDaily. ScienceDaily, 26 July 2019. <www.sciencedaily.com/releases/2019/07/190726153155.htm>.
 
-
+Word count : 714
 
 ## Vocabulary
 
