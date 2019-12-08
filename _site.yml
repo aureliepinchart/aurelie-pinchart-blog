@@ -3,9 +3,7 @@ title: "Aurélie's Blog"
 output_dir: "docs"
 favicon: "images/poumon3.jpg"
 navbar:
-  left:
-   logo: 
-    image: "images/poumon3.jpg"
+  logo: "images/poumon3.jpg"
   right:
     - text: "Home"
       href: index.html
