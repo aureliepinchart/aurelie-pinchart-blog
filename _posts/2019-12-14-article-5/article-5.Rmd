@@ -3,6 +3,9 @@ title: "Article 5 : Possible new treatment strategy for lung cancer"
 author:
   - name: Aurélie Pinchart
 date: 12-14-2019
+categories:
+  - KRAS
+  - MEK kinase
 output:
   distill::distill_article:
     self_contained: false
