@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 12-08-2019
+date: 12-15-2019
 preview: english.jpg
 output:
   distill::distill_article:
@@ -14,97 +14,114 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-24/09/2019 : I read some articles for my presentation.
+# 2019
 
-25/09/2019 :I read some articles for my presentation.
+## September
 
-27/09/2019 :I read some articles for my presentation and I searched for some Youtube channels about science (especially Biology). I found : iBiology, Biomentors Classes Online, Beverly Biology, Vincent Racaniello, Alex Lee, Sea&amp;me - Marine Biology stuff with Maria.
+* **24/09/2019** : I read some articles for my presentation.
 
-29/09/2019 : I found other Youtube channels : Bleier Biology, Biology Bugbears, Bozeman science, Amoeba sisters, Free science lessons, Biomedical and Biological sciences.
+* **25/09/2019** :I read some articles for my presentation.
+
+* **27/09/2019** :I read some articles for my presentation and I searched for some Youtube channels about science (especially Biology). I found : iBiology, Biomentors Classes Online, Beverly Biology, Vincent Racaniello, Alex Lee, Sea&amp;me - Marine Biology stuff with Maria.
+
+* **29/09/2019** : I found other Youtube channels : Bleier Biology, Biology Bugbears, Bozeman science, Amoeba sisters, Free science lessons, Biomedical and Biological sciences.
 I read the first chapter of "The Hobbit".
 
-02/10/2019 : I read the wikipedia article about cockatiel for my Data Science homework.
+## October
 
-05/10/2019 : I read some articles for my presentation and I watched a video about diffusion (https://www.youtube.com/watch?v=jhszFBtBPoI).
+* **02/10/2019** : I read the wikipedia article about cockatiel for my Data Science homework.
 
-06/10/2019 : I read some articles for my presentation, I read the second chapter of "The Hobbit" and I watched a vide about cell cycle (https://www.youtube.com/watch?v=QVCjdNxJreE).
+* **05/10/2019** : I read some articles for my presentation and I watched a video about diffusion (https://www.youtube.com/watch?v=jhszFBtBPoI).
 
-09/10/2019 : I read an article for my presentation.
+* **06/10/2019** : I read some articles for my presentation, I read the second chapter of "The Hobbit" and I watched a vide about cell cycle (https://www.youtube.com/watch?v=QVCjdNxJreE).
 
-10/10/2019 : I watched a video about the respiratory system (https://www.youtube.com/watch?v=2guHOnEt0e8).
+* **09/10/2019** : I read an article for my presentation.
 
-11/10/2019 : I worked on my first article for my portfolio.
+* **10/10/2019** : I watched a video about the respiratory system (https://www.youtube.com/watch?v=2guHOnEt0e8).
 
-12/10/2019 : I read some articles for my presentation.
+* **11/10/2019** : I worked on my first article for my portfolio.
 
-13/10/2019 : I worked on my presentation and I read the third chapter of "The Hobbit".
+* **12/10/2019** : I read some articles for my presentation.
 
-14/10/2019 : I read some articles for my presentation.
+* **13/10/2019** : I worked on my presentation and I read the third chapter of "The Hobbit".
 
-15/10/2019 : I read some articles for my presentation and I watched a documentary about coral bleaching https://www.youtube.com/watch?v=5cr8S5tTiz4.
+* **14/10/2019** : I read some articles for my presentation.
 
-16/10/2019 : I read some articles for my presentation.
+* **15/10/2019** : I read some articles for my presentation and I watched a documentary about coral bleaching https://www.youtube.com/watch?v=5cr8S5tTiz4.
 
-17/10/2019 : I watched a video about the types of natural selection https://www.youtube.com/watch?v=DBPGLythma0.
+* **16/10/2019** : I read some articles for my presentation.
 
-19/10/2019 : I watched a video about marine biology https://www.youtube.com/watch?v=uWZXC3mjeZU. I also read the fouth chapter of "The Hobbit".
+* **17/10/2019** : I watched a video about the types of natural selection https://www.youtube.com/watch?v=DBPGLythma0.
 
-20/10/2019 : I watched a video about resting potential but it was said the opposite of what we were taught in class (so I don't put the link).
+* **19/10/2019** : I watched a video about marine biology https://www.youtube.com/watch?v=uWZXC3mjeZU. I also read the fouth chapter of "The Hobbit".
 
-22/10/2019 : I watched a video about predation https://www.youtube.com/watch?v=6jXwEOit5vM.
+* **20/10/2019** : I watched a video about resting potential but it was said the opposite of what we were taught in class (so I don't put the link).
 
-24/10/2019 : I watched a video about genetic drift https://www.youtube.com/watch?v=W0TM4LQmoZY and a video about natural selection https://www.youtube.com/watch?v=7VM9YxmULuo.
+* **22/10/2019** : I watched a video about predation https://www.youtube.com/watch?v=6jXwEOit5vM.
 
-26/10/2019 : I watched a video about the loss of biodiversity https://www.youtube.com/watch?v=vCkDxD0DV0Q and I read the fifth chapter of "T he Hobbit".
+* **24/10/2019** : I watched a video about genetic drift https://www.youtube.com/watch?v=W0TM4LQmoZY and a video about natural selection https://www.youtube.com/watch?v=7VM9YxmULuo.
 
-27/10/2019 : I watched a video about the protein structure and folding https://www.youtube.com/watch?v=hok2hyED9go.
+* **26/10/2019** : I watched a video about the loss of biodiversity https://www.youtube.com/watch?v=vCkDxD0DV0Q and I read the fifth chapter of "T he Hobbit".
 
-29/10/2019 : I watched a video about mutations https://www.youtube.com/watch?v=vl6Vlf2thvI.
+* **27/10/2019** : I watched a video about the protein structure and folding https://www.youtube.com/watch?v=hok2hyED9go.
 
-01/11/2019 : I watched a video about microscope drawings https://www.youtube.com/watch?v=NLKZ95aHqE4.
+* **29/10/2019** : I watched a video about mutations https://www.youtube.com/watch?v=vl6Vlf2thvI.
 
-02/11/2019 : I watched a video about ethology https://www.youtube.com/watch?v=BvLihzeQzGk.
+## November
 
-03/11/2019 : I watched a video about stress management https://www.youtube.com/watch?v=2vhIGYKW4gY and I read the sixth chapter of "The Hobbit".
+* **01/11/2019** : I watched a video about microscope drawings https://www.youtube.com/watch?v=NLKZ95aHqE4.
 
-05/11/2019 : I watched a video about ethology (the second part) https://www.youtube.com/watch?v=jEZIUVU0BCU.
+* **02/11/2019** : I watched a video about ethology https://www.youtube.com/watch?v=BvLihzeQzGk.
 
-07/11/2019 : I watched  the last part of the video about ethology https://www.youtube.com/watch?v=bspxe_-ilC4.
+* **03/11/2019** : I watched a video about stress management https://www.youtube.com/watch?v=2vhIGYKW4gY and I read the sixth chapter of "The Hobbit".
 
-09/11/2019 : I watched a video about enzymes https://www.youtube.com/watch?v=6Acx6b3Hzsk 
-10/11/2019 : I watched a video about germination https://www.youtube.com/watch?v=cmzhvl5kOc0 and I read the seventh chapter of "The Hobbit".
+* **05/11/2019** : I watched a video about ethology (the second part) https://www.youtube.com/watch?v=jEZIUVU0BCU.
 
-13/11/2019 : I watched a video about CRISPR https://www.youtube.com/watch?v=MnYppmstxIs.
+* **07/11/2019** : I watched  the last part of the video about ethology https://www.youtube.com/watch?v=bspxe_-ilC4.
 
-15/11/2019 : I watched a video about ATP https://www.youtube.com/watch?v=23ZzI6WZS28.
+* **09/11/2019** : I watched a video about enzymes https://www.youtube.com/watch?v=6Acx6b3Hzsk 
 
-16/11/2019 : I watched a video about bacteria https://www.youtube.com/watch?v=ORB866QSGv8.
+* **10/11/2019** : I watched a video about germination https://www.youtube.com/watch?v=cmzhvl5kOc0 and I read the seventh chapter of "The Hobbit".
 
-17/11/2019 : I watched a video about autotrophs and heterotrophs https://www.youtube.com/watch?v=f8G7IulYxiA and I read the eighth of "The Hobbit".
+* **13/11/2019** : I watched a video about CRISPR https://www.youtube.com/watch?v=MnYppmstxIs.
 
-20/11/2019 : I watched a video about DNA and RNA https://www.youtube.com/watch?v=JQByjprj_mA.
+* **15/11/2019** : I watched a video about ATP https://www.youtube.com/watch?v=23ZzI6WZS28.
 
-21/11/2019 : I watched a video about skin https://www.youtube.com/watch?v=b9Fim9kKVLs.
+* **16/11/2019** : I watched a video about bacteria https://www.youtube.com/watch?v=ORB866QSGv8.
 
-23/11/2019 : I watched a video about reflex arc https://www.youtube.com/watch?v=SMcF01utk3Y.
+* **17/11/2019** : I watched a video about autotrophs and heterotrophs https://www.youtube.com/watch?v=f8G7IulYxiA and I read the eighth of "The Hobbit".
 
-24/11/2019 : I watched a video about signal transduction pathways https://www.youtube.com/watch?v=236d5LDUFSs and I read the ninth chapter of "The Hobbit".
+* **20/11/2019** : I watched a video about DNA and RNA https://www.youtube.com/watch?v=JQByjprj_mA.
 
-25/11/2019 : I watched a video about electrochemical gradient https://www.youtube.com/watch?v=Ba02v7eoVWQ.
+* **21/11/2019** : I watched a video about skin https://www.youtube.com/watch?v=b9Fim9kKVLs.
 
-27/11/2019 : I watched a video about viruses https://www.youtube.com/watch?v=8FqlTslU22s.
+* **23/11/2019** : I watched a video about reflex arc https://www.youtube.com/watch?v=SMcF01utk3Y.
 
-29/11/2019 : I watched a video about organic molecules https://www.youtube.com/watch?v=tcmGGGJx9zI.
+* **24/11/2019** : I watched a video about signal transduction pathways https://www.youtube.com/watch?v=236d5LDUFSs and I read the ninth chapter of "The Hobbit".
 
-01/12/2019 : I read the tenth chapter of "The Hobbit".
+* **25/11/2019** : I watched a video about electrochemical gradient https://www.youtube.com/watch?v=Ba02v7eoVWQ.
 
-03/12/2019 : I watched a video about microscopes https://www.youtube.com/watch?v=tVcEEw6qbBQ.
+* **27/11/2019** : I watched a video about viruses https://www.youtube.com/watch?v=8FqlTslU22s.
 
-05/12/2019 : I watched a video about reproductive adaptations https://www.youtube.com/watch?v=b_w4Nexv-0s.
+* **29/11/2019** : I watched a video about organic molecules https://www.youtube.com/watch?v=tcmGGGJx9zI.
 
-07/12/2019 : I watched a video about DNA replication https://www.youtube.com/watch?v=Qqe4thU-os8.
+## December
 
-08/12/2019 : I watched a video about imprinting https://www.youtube.com/watch?v=vwaiVxxpi7E and I read the eleventh chapter of "The Hobbit".
+* **01/12/2019** : I read the tenth chapter of "The Hobbit".
 
+* **03/12/2019** : I watched a video about microscopes https://www.youtube.com/watch?v=tVcEEw6qbBQ.
 
+* **05/12/2019** : I watched a video about reproductive adaptations https://www.youtube.com/watch?v=b_w4Nexv-0s.
+
+* **07/12/2019** : I watched a video about DNA replication https://www.youtube.com/watch?v=Qqe4thU-os8.
+
+* **08/12/2019** : I watched a video about imprinting https://www.youtube.com/watch?v=vwaiVxxpi7E and I read the eleventh chapter of "The Hobbit".
+
+* **10/12/2019** : I watched a video about protists and fungi https://www.youtube.com/watch?v=zK7Ckmxxqds.
+
+* **13/12/2019** : I went to the scientific workshop training and listened to the presentation of my friends.
+
+* **14/12/2019** : I watched a video about the heart https://www.youtube.com/watch?v=XpeeiqjRGB4.
+
+* **15/12/2019** : I watched a video about blood vessels https://www.youtube.com/watch?v=G2bJimNUjSI and i read the twelfth chapter of "The Hobbit".
 
