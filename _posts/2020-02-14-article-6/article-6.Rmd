@@ -1,0 +1,68 @@
+---
+title: "Article 6 : Protein decoy stymies lung cancer growth in mice"
+author:
+  - name: Aurélie Pinchart
+date: 02-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+
+Stanford Medicine. "Protein decoy stymies lung cancer growth in mice." ScienceDaily. ScienceDaily, 7 November 2019. <www.sciencedaily.com/releases/2019/11/191107160700.htm>
+
+Word count : 930
+
+## Vocabulary
+
+I used https://www.lexico.com/, https://dictionary.cambridge.org/ and https://www.wordreference.com/ to fill in this table.
+
+| Vocabulary        | Pronunciation         | Definition / synonym                         | French translation     |
+| ----------------- | --------------------- | -------------------------------------------- | ---------------------- |
+| decoy             | [ˈdiː.kɔɪ]            | sth. that diverts                            | leurre                 |
+| stymie            | [ˈstaɪmi]             | block                                        | contrecarrer           |
+| untreatable       | [ʌnˈtriːtəb(ə)l]      | that cannot be cured                         | incurable              |
+| otherwise         | [ˈʌðərwaɪz]           | or esle                                      | sinon, autrement       |
+| runaway           | [ˈrʌnəweɪ]            | out of control                               | hors de contrôle       |
+| ligand            | [ˈlɪɡənd]             | molecule / ion attached on another molecule  | ligand                 |
+| hook up           | [ˈhʊk ˈʌp]            | link                                         | s'attacher, s'associer |
+| interfered        | [ˌɪntərˈfɪər]         | spoil / prevent the progress of a process    | interférer avec        |
+| seek out          | [ˈsiːk ˈaʊt]          | search                                       | chercher               |
+| thwart            | [ˈθwɔːrt]             | block                                        | contrecarrer           |
+| interdisciplinary | [ˌɪntərˌdɪsɪˈplɪnəri] | multiple fields                              | interdisciplinaire     |
+| squirting         | [ˈskw3ːrt]            | cause spurt of a liquid                      | asperger               |
+| epithelial        | [ˌep.ɪˈθiː.li.əl]     | relating to epithelium                       | epithélial             |
+| line              | [laɪn]                | cover                                        | recouvrir              |
+| nested            | [nes′tid]             | one inside another                           | imbriqué, emboîté      |
+| recruit           | [rɪˈkruːt]            | enroll                                       | recruter               |
+| dampen            | ['dæmpən]             | make less strong / successful                | désenflammer           |
+| unintentionally   | [ˌʌnɪnˈtɛnʃənəli]     | not deliberately                             | involontairement       |
+| tightly           | [taɪtli]              | firmly                                       | fermement, solidement  |
+| edge out          | [ɛdʒ ˈaʊt]            | displace, remove                             | évincer, déloger       |
+| occur             | [əˈk3ːr]              | exist                                        | exister                |
+| repel             | [rɪˈpɛl]              | keep away                                    | repousser              |
+| painstaking       | ['peɪnzteɪkɪŋ]        | rigorous                                     | minutieux, rigoureux   |
+| subtle            | ['sʌtəl]              | nearly undetectable                          | subtil                 |
+| tweak             | [twiːk]               | slight change                                | petite modification    |
+| propensity        | [prəʊˈpɛnsɪti]        | tendency                                     | propension, tendance   |
+| ward off          | [ˈwɔːd ˈɒf]           | keep away                                    | repousser, éloigner    |
+| instigate         | ['ɪnstɪgeɪt]          | cause                                        | être l'instigateur de  |
+| prowess           | ['praʊəs/]            | great skill                                  | aptitude               |
+
+
+## Analysis
+
+|                               |                                                                                                                                                                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Jennifer Cochran, Alejandro Sweet-Cordero, Jun Kim and Cesar Marquez (Stanford and UC-San Francisco)                                                                                                    |
+| General topic                 | Creating a decoy protein to stop a chain reaction (leading to the spread of cancer)                                                                                                                     |
+| Published in                  | Science Daily, 7 November 2019                                                                                                                                                                          |
+| Procedure / what was examined | In 1 tpye of non-small cell lung cancer : mutation in KRAS gene -> CLCF1 binds to 3 receptors (+activation) and is released by fibroblasts (induction by cancerous epithelial cells) -> mechanism ?     |
+| Conclusion / discovery        | CLCF1 first binds to CNTFR -> this complex attracts the other receptors (gp130 and LIFR) => more energy for the tumor -> making a decoy receptor similar to CNTFR (but inactive) -> tested on mice : OK |
+| Remaining questions           | Will it work on humans ?                                                                                                                                                                                |
+
