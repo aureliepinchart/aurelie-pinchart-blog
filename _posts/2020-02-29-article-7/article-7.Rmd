@@ -1,0 +1,56 @@
+---
+title: "Article 7 : Newly developed nanoparticles help fight lung cancer in animal model"
+author:
+  - name: Aurélie Pinchart
+date: 02-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+
+Source : Wake Forest Baptist Medical Center. "Newly developed nanoparticles help fight lung cancer in animal model." ScienceDaily. ScienceDaily, 14 November 2019. <www.sciencedaily.com/releases/2019/11/191114115938.htm>.
+
+Word count : 535
+
+## Vocabulary
+I used https://www.lexico.com/, https://dictionary.cambridge.org/, https://www.wordreference.com/, accentperfect.com/ to fill in this table
+
+| Vocabulary        | Pronunciation       | Definition / synonym            | French translation          |
+| ----------------- | ------------------- | ------------------------------- | --------------------------- |
+| inhale            | [ɪnˈheɪl]           | breathe in                      | inspirer                    |
+| metastatic        | [ˌmɛtəˈstætɪk]      | spreading                       | métastatique                |
+| respond (to)      | [rɪˈspɒnd]          | react                           | réagir (à)                  |
+| inhalable         | [ɪ’nheɪləbəl]       | that can be inhale              | inhalable                   |
+| infiltrated       | [ˈɪnfɪltreɪt]       | move into sth.                  | s'infiltrer dans            |
+| immunosuppressive | [ˌɪmjʊnəʊsəˈprɛsɪv] | drug that weakens immune system | immunosuppresseur           |
+| novel             | [ˈnɒvəl]            | new, different                  | nouveau, novateur           |
+| convert (to)      | [kənˈv3ːrt]         | change (to)                     | transformer, convertir (en) |
+| deposit           | [dɪˈpɒzɪt]          | place                           | déposer                     |
+| (lung) air sac    | [ˈeə ˌsæk]          | alveolus                        | alvéole pulmonaire          |
+| systemic          | [sɪˈstɛmɪk]         | affecting all the body          | systémique, généralisé      |
+| regression        | [rɪˈgrɛʃən]         | reverting to a previous state   | régression                  |
+| prolong           | [prəʊˈlɒŋ]          | make longer                     | prolonger                   |
+| eliminate         | [ɪˈlɪmɪneɪt]        | get rid of                      | éliminer, faire disparaître |
+| robust            | [ˈrəʊbʌst]          | strong                          | robuste                     |
+| deep-seated       | [ˌdiːpˈsiːtɪd]      | at a deep level                 | fermement ancré, profond    |
+| feasibility       | [ˌfiːzəˈbɪlɪti]     | possibility of doing            | faisabilité                 |
+| provisional       | [prəˈvɪʒənəl]       | temporary                       | provisoire                  |
+| patent            | [ˈpeɪtənt]          | legal right                     | brevet                      |
+
+## Analysis
+
+|                               |                                                                                                                                                                                                                                                       |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Dawen Zhao (Wake Forest School of Medicine)                                                                                                                                                                                                           |
+| General topic                 | Inhalable nano-particles to treat lung cancer                                                                                                                                                                                                         |
+| Published in                  | Science Daily, 14 November 2019                                                                                                                                                                                                                       |
+| Procedure / what was examined | mice, inhalable particles (immunotherapy; non-invasive, access not only to the surface) -> taken up by APC cells => activation of immune response + radiation therapy; injection of immunomodulators not so efficient (<-> only surface of the tumor) |
+| Conclusion / discovery        | regression of tumors + longer survival; elimination of tumors in some cases                                                                                                                                                                           |
+| Remaining questions           | /                                                                                                                                                                                                                                                     |
+
