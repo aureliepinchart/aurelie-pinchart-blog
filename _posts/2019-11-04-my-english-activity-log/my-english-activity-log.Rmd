@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 12-15-2019
+date: 03-13-2020
 preview: english.jpg
 output:
   distill::distill_article:
@@ -153,3 +153,11 @@ I read the first chapter of "The Hobbit".
 * **08/02/2020** : I watched a video about plant structure https://www.youtube.com/watch?v=CNGn1qQCn4c.
 
 * **09/02/2020** : I watched a video about nitrogen cycle https://www.youtube.com/watch?v=jzrPiq3YuBM.
+
+## March
+
+* **07/03/2020** : I watched a video about plantibodies https://www.youtube.com/watch?v=gSLwVGHa6uM.
+
+* **09/03/2020** : I watched a video about hypotonic and hypertonic solutions https://www.youtube.com/watch?v=FU9xE8rxnOo.
+
+* **13/03/2020** : I watched a video about drug addiction and phsychoactive drugs https://www.youtube.com/watch?v=zhA1AB5yHmI.

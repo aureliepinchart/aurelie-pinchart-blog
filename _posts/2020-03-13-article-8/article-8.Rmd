@@ -1,0 +1,64 @@
+---
+title: "Article 8 : Electronic nose can sniff out which lung cancer patients will respond to immunotherapy"
+author:
+  - name: Aurélie Pinchart
+date: 03-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article
+
+Source : European Society for Medical Oncology. "Electronic nose can sniff out which lung cancer patients will respond to immunotherapy." ScienceDaily. ScienceDaily, 17 September 2019. <www.sciencedaily.com/releases/2019/09/190917193627.htm>.
+Word count : 960
+
+## Vocabulary
+
+I used https://www.lexico.com/, https://dictionary.cambridge.org/, https://www.wordreference.com/, https://www.revmed.ch/RMS/2008/RMS-152/Diagnostic-des-maladies-infectieuses-place-des-point-of-care-tests-POCT to fill in this table.
+
+| Vocabulary          | Pronunciation          | Definition / synonym                                      | French translation     |
+| ------------------- | ---------------------- | --------------------------------------------------------- | ---------------------- |
+| gold standard       | [ˈɡəʊld ˈstændərd]     | reference                                                 | référence              |
+| thoracic            | [θɔːˈræsɪk]            | relating to the thorax                                    | thoracique             |
+| subset              | [ˈsʌbsɛt]              | set part of a larger one                                  | sous-ensemble          |
+| biomarker           | [ˈbaɪ.əʊˌmɑː.kər]      | indicator                                                 | biomarqueur            |
+| joint               | [ˈdʒɔɪnt]              | shared                                                    | conjoint               |
+| hypothesize         | [haɪˈpɒθɪsaɪz]         | suppose                                                   | émettre une hypothèse  |
+| exhale              | [ɛksˈheɪl]             | breathe out                                               | expirer                |
+| device              | [dɪˈvaɪs]              | machine                                                   | appareil, dispositif   |
+| sensor              | [ˈsɛnsər]              | electronic device that detects sth.                       | capteur, détecteur     |
+| volatile            | [ˈvɒlətaɪl]            | that evaporates easily                                    | volatil                |
+| indicate            | [ˈɪndɪkeɪt]            | point out                                                 | indiquer               |
+| mixture             | [ˈmɪkstʃər]            | combinations of substances                                | mélange                |
+| ambient             | [ˈæmbiənt]             | surrounding                                               | ambiant                |
+| influence           | [ˈɪnfluəns]            | modify                                                    | influencer             |
+| assess              | [əˈsɛs]                | evaluate                                                  | évaluer                |
+| validate            | [ˈvælɪdeɪt]            | confirm, corroborate                                      | confirmer, valider     |
+| distinguish         | [dɪˈstɪŋgwɪʃ]          | see difference between                                    | distinguer             |
+| diagnostic          | [ˌdaɪəgˈnɒstɪk]        | used in diagnosis                                         | de diagnostic          |
+| qualify             | [ˈkwɒlɪfaɪ]            | meet requirements                                         | remplir les conditions |
+| point-of-care test  | [ˈpɔɪnt əv 'kɛə ˈtɛst] | diagnostic test that gives the results relatively quickly | ???                    |
+| prospective         | [prəˈspɛktɪv]          | expected                                                  | futur                  |
+| fatigue             | [fəˈtiːg]              | tiredness                                                 | fatigue                |
+| bowel               | [ˈbaʊəl]               | intestine                                                 | intestin               |
+| inflamed            | [ɪnˈfleɪmd]            | infected, swollen                                         | enflammé               |
+| merely              | [ˈmɪərli]              | simply, only                                              | simplement, seulement  |
+| scratch the surface | [ˈskrætʃ ˈðə ˈs3ːrfɪs] | deal with sth. superficially                              | effleurer le problème  |
+
+
+## Analysis
+
+|                               |                                                                                                                                                                                                                |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers                   | Michel van den Heuvel (Radboud University Medical Centre), Rianne de Vries (Amsterdam University Medical Centres) and Mirte Muller (The Netherlands Cancer Institute)                                          |
+| General topic                 | An electronic nose detecting if patients will respond to immunotherapy                                                                                                                                         |
+| Published in                  | Science Daily, 17 September 2019                                                                                                                                                                               |
+| Procedure / what was examined | way to replace immunohistochemistry (invasive + need time) -> analysis of breath (detection of volatile organic compounds); tested on 143 patients -> then treatment and verification with the standard method |
+| Conclusion / discovery        | distinction between responders  and non-responders : 85% accuracy (=> avoid side effects of immunotherapy when non-responders)                                                                                 |
+| Remaining questions           | /                                                                                                                                                                                                              |
+
