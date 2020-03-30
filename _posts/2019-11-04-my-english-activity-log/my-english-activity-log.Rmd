@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 03-13-2020
+date: 03-30-2020
 preview: english.jpg
 output:
   distill::distill_article:
@@ -161,3 +161,13 @@ I read the first chapter of "The Hobbit".
 * **09/03/2020** : I watched a video about hypotonic and hypertonic solutions https://www.youtube.com/watch?v=FU9xE8rxnOo.
 
 * **13/03/2020** : I watched a video about drug addiction and phsychoactive drugs https://www.youtube.com/watch?v=zhA1AB5yHmI.
+
+* **19/03/2020** : I watched a video about the immune system https://www.youtube.com/watch?v=fSEFXl2XQpc.
+
+* **21/03/2020** : I watched a video about the endocrine system (part 1) https://www.youtube.com/watch?v=-pJOnYvKC4U.
+
+* **27/03/2020** : I watched the second part of the video https://www.youtube.com/watch?v=LfqoRc68V5Q.
+
+* **28/03/2020** : I watched "The Lord Of The Rings : The Fellowship Of The Ring" (long version, of course).
+
+* **29/03/2020** : I watched "The Lord Of The Rings : The Two Tours".
