@@ -1,0 +1,19 @@
+---
+title: "Conclusion"
+author:
+  - name: Aurélie Pinchart
+date: 04-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+I learnt that lung cancer is very complex because many proteins are involved in it and some of them work in a chain reaction. I also learnt that some researchers had developed a blood test to detect lung cancer earlier which is good as we often detect it too late. Some researchers are also developing an electronic nose to detect which patients will respond to immunotherapy and avoid the treatment (and potential side effects) to non-responders. I really also liked the idea of treating patients thanks to inhalable nanoparticles (and radiation therapy). I think it is a good idea as this method is non-invasive and patients are often weakened by the disease.
+
+I thought that this work was very interesting because it made me learn a lot of new words and made me discover a new field of biology. I really enjoyed doing this work, even if it is sometimes hard to find the translation of some specific words.

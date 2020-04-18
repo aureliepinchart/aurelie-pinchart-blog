@@ -1,0 +1,44 @@
+---
+title: "Bibliography"
+author:
+  - name: Aurélie Pinchart
+date: 04-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+* <WWW.SCIENCEDAILY.COM/RELEASES/2019/09/190923170717.HTM>, published on 23 September 2019 (consulted on 09/10/2019)
+
+* Nicoletta Lanese. « Antioxidants may encourage the spread of lung cancer rather than prevent it ». Science News. June 27, 2019. https://www.sciencenews.org/article/antioxidants-lung-cancer-spread-prevent (consulted on30/10/2019)
+
+* https://www.bbc.com/news/uk-scotland-49638208 published on 10 September 2019. (consulted on 13/11/2019)
+
+* Salk Institute. “Two therapeutic targets identified for deadly lung cancer: Scientists discover a pair of enzymes that drive non-small-cell lung cancer by promoting inflammation.” ScienceDaily. ScienceDaily, 26 July 2019. <www.sciencedaily.com/releases/2019/07/190726153155.htm>. (consulted on 26/11/2019)
+
+* H. Lee Moffitt Cancer Center & Research Institute. “Possible new treatment strategy for lung cancer: Combination therapy targeting KRAS mutation could provide benefit to nearly a third of lung cancer patients.” ScienceDaily. ScienceDaily, 19 August 2019. <www.sciencedaily.com/releases/2019/08/190819140213.htm>.  (consulted on 12/12/2019)
+
+* Stanford Medicine. “Protein decoy stymies lung cancer growth in mice.” ScienceDaily. ScienceDaily, 7 November 2019. <www.sciencedaily.com/releases/2019/11/191107160700.htm>  (consulted on 11/02/2020)
+
+* Wake Forest Baptist Medical Center. “Newly developed nanoparticles help fight lung cancer in animal model.” ScienceDaily. ScienceDaily, 14 November 2019. <www.sciencedaily.com/releases/2019/11/191114115938.htm>. (consulted on 25/02/2020)
+
+* European Society for Medical Oncology. “Electronic nose can sniff out which lung cancer patients will respond to immunotherapy.” ScienceDaily. ScienceDaily, 17 September 2019. <www.sciencedaily.com/releases/2019/09/190917193627.htm>.  (consulted on 10/03/2020)
+
+* https://www.wordreference.com/
+
+* https://www.lexico.com/ 
+
+* https://dictionary.cambridge.org
+
+* https://en.wiktionary.org/
+
+* https://www.revmed.ch/RMS/2008/RMS-152/Diagnostic-des-maladies-infectieuses-place-des-point-of-care-tests-POCT
+
+* https://en.wikipedia.org/wiki/Lung_cancer (03/04/2020)
+
+
+

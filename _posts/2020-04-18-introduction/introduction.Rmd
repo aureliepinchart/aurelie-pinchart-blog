@@ -1,0 +1,22 @@
+---
+title: "Introduction"
+author:
+  - name: Aurélie Pinchart
+date: 04-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+There are two main types of lung cancer: small-cell lung cancer and non-small-cell lung cancer. The symptoms are coughing, coughing up blood, weight loss, shortness of breath and chest pain. About 85% of lung cancers are due to tobacco smoking and the 15% left impact people who have never smoked and is due to genetic factors or pollution (such as second-hand smoke).
+
+This disease can be diagnosed thanks to radiographs, computed tomography scan and biopsy. Lung cancer is a great cause of cancer related-death. 
+My own grandfather died a few years ago because of it – he used to smoke a lot when I was a child, then he stopped but it seems I was too late… So I wanted to know a bit more about this disease. I especially wanted to know more about new discoveries in molecular and cellular biology to get an idea of how a lung cancer cell works and then also get an idea of future possible treatments. I also wanted to know if screening techniques had improved because waiting for many symptoms to diagnose lung cancer is sometimes too late to treat it properly.
+
+In this portfolio, you will find 8 articles about recent researches mostly on non-small-cell lung cancer explaining how these cells work, what the possible future treatments are and how we can detect if you have lung cancer.
