@@ -3,7 +3,7 @@ title: "My English activity log"
 
 author:
   - name: Aurélie Pinchart
-date: 03-30-2020
+date: 04-26-2020
 preview: english.jpg
 output:
   distill::distill_article:
@@ -180,3 +180,29 @@ I read the first chapter of "The Hobbit".
 * **05/04/2020** : I watched a video about Hardy & Weinberg equilibrum https://www.youtube.com/watch?v=7S4WMwesMts.
 
 * **18/04/2020** : I wathed e video about virus structure and reproduction https://www.youtube.com/watch?v=2--7fz9Fr_s.
+
+* **23/04/2020** :
+  + I watched a video about plant metabolism https://www.youtube.com/watch?v=XSig4PR_CXs&feature=share
+  + I watched a video about orchid's trap https://www.youtube.com/watch?v=_uHJGdTgtXE
+  + I watched a video about orchid wasp https://www.youtube.com/watch?v=0nfgibIYbg8
+  + I watched a video about nectar robbers https://www.youtube.com/watch?v=yBL_CIQD5aM
+
+* **24/04/2020** : I watched a video about cell signaling https://www.youtube.com/watch?v=-dbRterutHY.
+
+* **25/04/2020** : I watched a video about assumptions about marine biologists https://www.youtube.com/watch?v=hOE04I3TGL0.
+
+* **26/04/2020** : I watched a video about a turtle which have an exposed heart https://www.youtube.com/watch?v=c3s4n8MI2u4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
